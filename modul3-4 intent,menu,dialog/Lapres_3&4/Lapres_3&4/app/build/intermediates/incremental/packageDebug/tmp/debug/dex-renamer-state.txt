@@ -1,0 +1,7 @@
+#Fri Apr 28 14:09:01 ICT 2023
+base.1=E\:\\Semester 6\\Lapres_3&4\\Lapres_3&4\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=E\:\\Semester 6\\Lapres_3&4\\Lapres_3&4\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
